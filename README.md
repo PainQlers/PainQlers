@@ -1,4 +1,5 @@
-<h3 align="center">Hello, I'm Punsakorn Aroonchote 👋 A Full-Stack Developer passionate about building reliable, scalable, and user-centric web applications. I enjoy solving complex backend problems and crafting seamless frontend experiences.</h3>
+<p align="start">Hello, I'm Punsakorn Aroonchote 👋</p>
+<p align="start">A Full-Stack Developer passionate about building reliable, scalable, and user-centric web applications. I enjoy solving complex backend problems and crafting seamless frontend experiences.</p>
 
 - 🔭 I’m currently working on **A full‑stack web app (Next.js + Supabase + Stripe)**
 
