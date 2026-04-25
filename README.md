@@ -1,3 +1,4 @@
+<h1>💫 About Me:</h1>
 <p align="start">Hello, I'm Punsakorn Aroonchote 👋</p>
 <p align="start">A Full-Stack Developer passionate about building reliable, scalable, and user-centric web applications. I enjoy solving complex backend problems and crafting seamless frontend experiences.</p>
 
@@ -11,11 +12,10 @@
 
 - 💬 Ask me about **React, TypeScript, Next.js, Supabase, web performance**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="left">Languages and Tools:</h1>
 
 <table border="0">
   <tr>
@@ -51,5 +51,7 @@
     <td><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a></td>
   </tr>
 </table>
+
+<h1>📊 GitHub Stats:</h1>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=painqlers&show_icons=true&locale=en" alt="painqlers" /></p>
